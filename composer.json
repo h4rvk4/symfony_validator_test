@@ -1,0 +1,19 @@
+{
+    "name": "haruka/form_test",
+    "require": {
+        "php": "^7.4",
+        "symfony/form": "5.2.3",
+        "symfony/validator": "5.2.3"
+    },
+    "authors": [
+        {
+            "name": "Harro",
+            "email": "harro@sunaru.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
